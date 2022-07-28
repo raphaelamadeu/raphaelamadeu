@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## These are my current account stats
+#### These are my current account stats
 
 <div width="100%">
   <a href="https://github.com/raphaelamadeu">
@@ -24,9 +24,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<br />
-
-## And these are from my old account
+#### And these are from my old account
 <a href="https://github.com/raphaelamadeu-zz" target="_blank">@raphaelamadeu-zz</a>
 
 <div width="100%">
