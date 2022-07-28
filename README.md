@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## These are my current account stats:
+## These are my current account stats
 
 <div width="100%">
   <a href="https://github.com/raphaelamadeu">
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br />
 
 
-Some technologies I like and have experience with:
+Some technologies I like and have experience with
 
 <div style="display: inline-block;">
   <img width="30" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
